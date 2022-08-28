@@ -38,9 +38,9 @@
 </p>
  🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pn8759@srmist.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nagpal_prakhar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanamandraaishwarya/img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aishusanamandra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/aishwarya.4675/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 <!--### Hi there 👋,
 My name's Prakhar Nagpal, currently a second year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am a Flutter app developer enhancing my skills more by making a few projects. </br>
